@@ -29,7 +29,7 @@
 
 
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 50px;">
   <img align="center" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
 </div>
 
