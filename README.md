@@ -29,8 +29,10 @@
 
 
 
-<img align="center" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
-<br style="margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
+  <img align="center" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
+</div>
+
 
 
 <div align="center">  
