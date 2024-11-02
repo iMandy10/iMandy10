@@ -22,7 +22,7 @@
 
 <img align="right" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Contato: </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:amanda.silveira.barbosa88@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/mari4souza/](https://www.linkedin.com/in/amanda-silveira-242a702b7/))
