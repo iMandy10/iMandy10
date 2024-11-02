@@ -20,7 +20,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
+<img align="center" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
 
 <h3 align="center">Contato: </h3>
 
