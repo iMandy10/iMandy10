@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=65:ffdbfd,35:ff88ba&height=300&section=header&text=✧+Welcome+to+my+profile!%&fontColor=ce0d5e&fontSize=46)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=ff91a4&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=ff91a4&height=50&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E3007B&center=true&width=435&lines=%E2%9C%A7+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
