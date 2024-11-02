@@ -29,14 +29,13 @@
 
 
 
-<div style="margin-bottom: 50px;">
-  <img align="center" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
-</div>
+<img align="center" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
+<br><br><br>
 
 
 
 <div align="center">  
-<img width="49%" height="195px" style="margin-top: 50px; src="https://github-readme-stats.vercel.app/api?username=iMandy10&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Amanda's github stats" />
+<img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=iMandy10&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Amanda's github stats" />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMandy10&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Amanda's top languages" />
 </div>
