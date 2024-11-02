@@ -23,29 +23,13 @@
 
 <h3 align="center">Contato: </h3>
 
-<style>
-    .button {
-        border: 2px solid #FF00F6; /* Cor da borda */
-        border-radius: 5px; /* Bordas arredondadas */
-        padding: 5px 10px; /* Espaçamento interno */
-        display: inline-block; /* Para que o botão respeite o tamanho da borda */
-        text-decoration: none; /* Remove o sublinhado do link */
-        color: #FFF; /* Cor do texto */
-    }
-
-    .button:hover {
-        background-color: #FF00F6; /* Cor de fundo ao passar o mouse */
-        color: #000; /* Cor do texto ao passar o mouse */
-    }
-</style>
-
-<a class="button" href="mailto:amanda.silveira.barbosa88@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="E-mail" />
+<a href="mailto:amanda.silveira.barbosa88@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF" alt="E-mail" style="border: 2px solid #FF00F6; border-radius: 5px; padding: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/amanda-silveira-242a702b7/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn" style="border: 2px solid #FF00F6; border-radius: 5px; padding: 5px;" />
 </a>
 
-<a class="button" href="https://www.linkedin.com/in/amanda-silveira-242a702b7/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn" />
-</a>
 
 
 <img align="center" alt="" height="190px" src="./7313cc2b24c323b3df2562fbd27ed918.gif">
