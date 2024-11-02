@@ -11,7 +11,7 @@
   <img align="center" alt="" src="./src/header-gif.gif" style="margin-top: -10px;">
 
 </div>
-
+ <img align="center" alt="" src="./src/header-gif.gif">
 <br>
 
 <p align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <br>
-
+ <img align="center" alt="" src="./src/header-gif.gif">
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 
