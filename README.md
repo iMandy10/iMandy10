@@ -9,18 +9,17 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1&pause=1000&color=E391AB&center=true&vCenter=true&repeat=false&width=435&lines=Amanda+Silveira+Barbosa)](https://git.io/typing-svg)
   
   <img align="center" alt="" src="./src/header-gif.gif" style="margin-top: -10px;">
-
+  
 </div>
- <img align="center" alt="" src="./src/header-gif.gif">
-<br>
+
+#
 
 <p align="center">
-  Graduanda em Ciência da Computação na UFMG! Atualmente, trabalho com Back-end em Javascript/Typescript e com Power BI. 
-  Tenho grande interesse na área de Cibersegurança e estou estudando sobre!
+  Graduanda em Ciência da Computação na UFMG! Atualmente, trabalho com Back-end em Javascript/Typescript e com Power BI. Tenho grande interesse na área de Cibersegurança e estou estudando sobre!
 </p>
 
-<br>
- <img align="center" alt="" src="./src/header-gif.gif">
+#
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 
