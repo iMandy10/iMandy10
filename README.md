@@ -12,7 +12,7 @@
 
 #
 
-<p align="center">Sou estudante de Ciência da Computação da UFMG! Atualmente, trabalho com Back-end em Javascript/Typescript e com Power BI. Tenho grande interesse na área de Cibersegurança e estou estudando sobre!
+<p align="center">Graduanda em Ciência da Computação na UFMG! Atualmente, trabalho com Back-end em Javascript/Typescript e com Power BI. Tenho grande interesse na área de Cibersegurança e estou estudando sobre!
   
 #
 
