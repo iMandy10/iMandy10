@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=65:ffdbfd,35:ff88ba&height=300&section=header&text=✧+Welcome+to+my+profile!%&fontColor=d50059&fontSize=46)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=63042c&height=20&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=63042c&height=10&section=header"/>
 
 <div align="center">
   
