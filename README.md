@@ -8,7 +8,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1&pause=1000&color=E391AB&center=true&vCenter=true&repeat=false&width=435&lines=Amanda+Silveira+Barbosa)](https://git.io/typing-svg)
   
-  <img align="center" alt="" src="./src/header-gif.gif" style="margin-top: -10px;">
+  <img align="center" alt="" src="./src/header-gif.gif" style="margin-top: -30px;">
   
 </div>
 
