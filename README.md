@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=65:ffdbfd,35:ff88ba&height=300&section=header&text=✧+Welcome+to+my+profile!%&fontColor=d50059&fontSize=46)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=63042c&height=20&section=header"/>
-
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1&pause=1000&color=E391AB&center=true&vCenter=true&repeat=false&width=435&lines=Amanda+Silveira+Barbosa" alt="Typing SVG" />
 </a>
